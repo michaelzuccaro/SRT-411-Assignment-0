@@ -52,7 +52,7 @@ combining them into a vector and then using the function 'sum' to do so.
     randQ4 = rnorm(100)
     plot(randQ4)
 
-![](assign0_files/figure-markdown_strict/unnamed-chunk-4-1.png)<!-- -->
+![](assign0_files/figure-markdown_strict/unnamed-chunk-4-1.png)
 
 **5.)** Find help for the sqrt function, do so by searching 'sqrt' in
 the search bar under the 'Help' tab. This displayed the following:
@@ -66,7 +66,7 @@ generates 100 random numbers and plots them.
 
     source("/home/mzuccaro1/Desktop/Assignment 0/firstscript.R")
 
-![](assign0_files/figure-markdown_strict/unnamed-chunk-6-1.png)<!-- -->
+![](assign0_files/figure-markdown_strict/unnamed-chunk-6-1.png)
 
 **7.)** Put the numbers 31 to 60 in a vector named 'P' and then in a
 matrix with 6 rows and 5 columns named 'Q'.
@@ -95,7 +95,7 @@ data frame with plot(t) and sd(t).
 
     plot(t)
 
-![](assign0_files/figure-markdown_strict/unnamed-chunk-8-1.png)<!-- -->
+![](assign0_files/figure-markdown_strict/unnamed-chunk-8-1.png)
 
     sd(x1)
 
@@ -118,7 +118,7 @@ to find out what the meaning of 'rgb'and the last arguments of 'rgb',
     lines(t$b, type="s", lwd=2, col=rgb(0.3,0.4,0.3,0.9))
     points(t$c, pch=20, cex=4, col=rgb(0,0,1,0.3))
 
-![](assign0_files/figure-markdown_strict/unnamed-chunk-9-1.png)<!-- -->
+![](assign0_files/figure-markdown_strict/unnamed-chunk-9-1.png)
 
 *rgb:* Creates colors corresponding to given values from a range of '0
 and max'. The rgb values represent red, green and blue.
