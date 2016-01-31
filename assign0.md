@@ -163,7 +163,7 @@ birthday. On the Y-axis: Number of presents you expect on these days.
     yAxeQ12 <- c(2, 0, 5)
     plot(xAxeQ12, yAxeQ12, xlab='Days', ylab='Expected Presents')
 
-![](assign0_files/figure-markdown_strict/unnamed-chunk-12-1.png)<!-- -->
+![](assign0_files/figure-markdown_strict/unnamed-chunk-12-1.png)
 
 **13.)** Make a vector from 1 to 100. Make a for-loop which runs through
 the whole vector. Then multiply the elements which are smaller than 5 or
