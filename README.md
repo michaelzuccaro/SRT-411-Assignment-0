@@ -1,6 +1,6 @@
 # SRT-411-Assignment-0
 
-Submission for SRT411 Assignment, this assignment is submitted
+Submission for SRT411 Assignment 0, this assignment is submitted
 by Michael Zuccaro.
 
 Here you will find all of the files required for completing Assignment 0.
